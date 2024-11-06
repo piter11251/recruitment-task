@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uKfJynUPsXU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\recruitment-task\\GetTvShowTotalLength\\GetTvShowTotalLength\\GetTvShowTotalLength.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

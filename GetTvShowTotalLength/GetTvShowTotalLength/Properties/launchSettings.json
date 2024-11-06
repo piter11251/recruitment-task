@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GetTvShowTotalLength": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
