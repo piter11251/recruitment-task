@@ -12,3 +12,4 @@ C:\Users\admin\Documents\GitHub\recruitment-task\GetTvShowTotalLength\GetTvShowT
 C:\Users\admin\Documents\GitHub\recruitment-task\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\GetTvShowTotalLength.pdb
 C:\Users\admin\Documents\GitHub\recruitment-task\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\GetTvShowTotalLength.genruntimeconfig.cache
 C:\Users\admin\Documents\GitHub\recruitment-task\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\ref\GetTvShowTotalLength.dll
+C:\Users\admin\Documents\GitHub\recruitment-task\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\GetTvShowTotalLength.sourcelink.json

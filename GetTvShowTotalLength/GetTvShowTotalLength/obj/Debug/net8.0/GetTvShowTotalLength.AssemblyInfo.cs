@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GetTvShowTotalLength")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db8f8ab14917104a7dd6210e6c8d1be678d321a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GetTvShowTotalLength")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GetTvShowTotalLength")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

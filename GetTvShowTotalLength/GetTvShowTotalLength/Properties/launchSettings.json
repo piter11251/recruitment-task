@@ -1,7 +1,8 @@
 {
   "profiles": {
     "GetTvShowTotalLength": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "commandLineArgs": "Girls"
     },
     "Container (Dockerfile)": {
       "commandName": "Docker"
