@@ -8,4 +8,4 @@ if [[ ! -f "$GET_TVSHOW_TOTAL_LENGTH_BIN" ]]; then
     exit 1
 fi 
 
-python3 tv-time/tv-time/.venv/tv-time.py
+python3 tv-time/tv-time/tv-time.py
