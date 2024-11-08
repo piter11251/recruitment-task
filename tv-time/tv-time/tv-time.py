@@ -4,7 +4,7 @@ import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 repo_path = os.path.dirname(os.path.abspath(__file__))
-exe_path = os.path.abspath(os.path.join(repo_path, '..', '..', '..', 'GetTvShowTotalLength', 'GetTvShowTotalLength', 'bin', 'Debug', 'net8.0', 'GetTvShowTotalLength.exe'))
+exe_path = os.path.abspath(os.path.join(repo_path, '..', '..', 'GetTvShowTotalLength', 'GetTvShowTotalLength', 'bin', 'Debug', 'net8.0', 'GetTvShowTotalLength.exe'))
 os.environ['GET_TVSHOW_TOTAL_LENGTH_BIN'] = exe_path
 GET_TVSHOW_TOTAL_LENGTH_BIN = os.getenv('GET_TVSHOW_TOTAL_LENGTH_BIN')
 
