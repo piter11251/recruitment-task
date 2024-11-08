@@ -14,8 +14,7 @@ class Program
             string responseBody = await response.Content.ReadAsStringAsync();
             var tvshowsArray = JsonNode.Parse(responseBody).AsArray();
             var latestvshow = latestTvshow(tvshowsArray);
-            Console.WriteLine(latestvshow);
-            if (latestvshow != null)
+            
             {
                 var episodesUrl = $"https://api.tvmaze.com/singlesearch/shows?q={Uri.EscapeDataString(tvshowName)}&embed=episodes";
                 response = await _httpClient.GetAsync(episodesUrl);
